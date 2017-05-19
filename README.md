@@ -1,3 +1,3 @@
 # hello-world
 
-Just a sinple test to check it all is working.
+Just a simple test to check it all is working.
